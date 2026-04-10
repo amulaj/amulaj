@@ -17,7 +17,7 @@ I'm a passionate **Developer** with experience in **Business Central**. I love t
 ![AL](https://img.shields.io/badge/AL-2C7CD6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![C/AL](https://img.shields.io/badge/C%2FAL-2C7CD6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Powershell](https://img.shields.io/badge/C%2FAL-2C7CD6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![TSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
