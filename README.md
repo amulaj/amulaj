@@ -10,7 +10,7 @@ I'm a passionate **Developer** with experience in **Business Central**. I love t
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **I question business logic until it starts making sense.**
 
 ## My Skills 🧠
 
